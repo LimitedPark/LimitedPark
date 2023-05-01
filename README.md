@@ -1,12 +1,14 @@
-## Hi, I'm YuhanPark😃
-I'm a computer engineering student and I just started studying development. I'm interested in backend development and data analysis. I love studying together and sharing my knowledge
+## Yuhan Park / 박유한
+Hi✋, I'm Yuhan - a student at the Sejong University. I love programming with my friends and colleagues.
+
+* Tech Blog (Korean): https://chachadev.tistory.com/
+
 ### Experience
 
 * Bachelor Degree of Computer Science, Sejong University, Undergraduate (2023.02 ~ )
 
 ### Contact
 * <a href="mailto:yuhn1011@naver.com"> Email </a>
-* [Tech Blog(Korean)](https://chachadev.tistory.com/)
 
 <!--
 **LimitedPark/LimitedPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
