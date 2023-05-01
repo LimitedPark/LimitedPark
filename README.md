@@ -1,5 +1,5 @@
 ## Hi, I'm YuhanPark😃
-I'm a computer engineering student and I just started studying development. I'm interested in backend development and data analysis. I love studying together or sharing my knowledge
+I'm a computer engineering student and I just started studying development. I'm interested in backend development and data analysis. I love studying together and sharing my knowledge
 ### Experience
 
 * Bachelor Degree of Computer Science, Sejong University, Undergraduate (2023.02 ~ )
