@@ -5,7 +5,7 @@ I'm a computer engineering student and I just started studying development. I'm 
 * Bachelor Degree of Computer Science, Sejong University, Undergraduate (2023.02 ~ )
 
 ### Contact
-* [Email](yuhn1011@naver.com)
+* <a href="mailto:yuhn1011@naver.com"> Email </a>
 * [Tech Blog(Korean)](https://chachadev.tistory.com/)
 
 <!--
